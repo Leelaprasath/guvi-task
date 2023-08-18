@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://leelaprasath.github.io/guvi-task/static/css/main.cf95549d.css",
+    "main.js": "https://leelaprasath.github.io/guvi-task/static/js/main.c4218394.js",
+    "static/js/787.22edae46.chunk.js": "https://leelaprasath.github.io/guvi-task/static/js/787.22edae46.chunk.js",
+    "static/media/bg.jpeg": "https://leelaprasath.github.io/guvi-task/static/media/bg.a848787227c093b90e71.jpeg",
+    "index.html": "https://leelaprasath.github.io/guvi-task/index.html",
+    "main.cf95549d.css.map": "https://leelaprasath.github.io/guvi-task/static/css/main.cf95549d.css.map",
+    "main.c4218394.js.map": "https://leelaprasath.github.io/guvi-task/static/js/main.c4218394.js.map",
+    "787.22edae46.chunk.js.map": "https://leelaprasath.github.io/guvi-task/static/js/787.22edae46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf95549d.css",
+    "static/js/main.c4218394.js"
+  ]
+}
